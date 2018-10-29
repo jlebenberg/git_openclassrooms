@@ -1,1 +1,2 @@
-SubjectName|DOB
+SubjectName|DOB\n
+Toto|19830101\n
